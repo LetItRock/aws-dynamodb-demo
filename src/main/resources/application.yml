@@ -1,0 +1,12 @@
+amazon:
+  dynamodb:
+    endpoint:
+
+  aws:
+    accesskey:
+    secretkey:
+
+cloud:
+  aws:
+    region:
+      static: us-east-1

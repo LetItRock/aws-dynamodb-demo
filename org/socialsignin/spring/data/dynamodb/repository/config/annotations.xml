@@ -1,0 +1,5 @@
+<root>
+    <item name='org.socialsignin.spring.data.dynamodb.repository.config.EnableDynamoDBRepositories'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
